@@ -1,5 +1,5 @@
 # 部署 YouTube 频道视频更新监控并发送通知到邮件
-1、fork
+1、fork此仓库
 
 2、设置 GitHub Secrets
 
